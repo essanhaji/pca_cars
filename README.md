@@ -29,7 +29,7 @@ Principal component analysis is a statistical procedure that uses an orthogonal 
 Congratulation.
 - Now you can open the notebook ```main.ipynb``` and edit it as you want.<br/>
 
-[main.ipynb](main.ipynb)
+- [main.ipynb](main.ipynb)
 
 
 
