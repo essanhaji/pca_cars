@@ -28,7 +28,7 @@ Principal component analysis is a statistical procedure that uses an orthogonal 
 ### Test
 Congratulation.
 - Now you can open the notebook ```main.ipynb``` and edit it as you want.<br/>
-![main](main.ipynb)
+[main](main.ipynb)
 
 
 
