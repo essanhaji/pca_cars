@@ -10,7 +10,7 @@ Principal component analysis is a statistical procedure that uses an orthogonal 
 
 
 ### Requirements
-- Python 3
+- Python 3.7 64bit
 
 
 
